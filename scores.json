@@ -1,0 +1,9 @@
+{
+  "soundness": 5,
+  "novelty": 6,
+  "significance": 5,
+  "clarity": 5,
+  "evidence_quality": 4,
+  "overall": 5,
+  "justification": "The paper presents a plausible and moderately novel conditional finding\u2014SVD predicts 21\u2011day VIX innovations only when cross\u2011sector correlation is low\u2014supported by a significant interaction term. However, methodological soundness is weakened by a critical inconsistency in the sector count (ten vs. nine) and under\u2011specified components (exact AvgCorr definition, HMM setup, horizon construction), as flagged in the audits. Evidence quality is limited by essentially in\u2011sample evaluation, absence of benchmarks, lack of marginal\u2011effect quantification, and poor classification performance (AUROC \u2248 0.526, PR\u2011AUC 0.0195). Clarity suffers from unresolved figure/table references and notation inconsistencies, so while the idea is interesting, the empirical support and presentation need substantial strengthening."
+}
